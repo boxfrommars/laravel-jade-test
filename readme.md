@@ -20,6 +20,8 @@ resources/
 gulpfile.js
 ```
 
+blade-mixin.jade взят отсюда: https://gist.github.com/franzose/280218e54f559040039f
+
 #### [gulpfile.js](gulpfile.js)
 
 ```js
