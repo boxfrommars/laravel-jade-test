@@ -1,4 +1,4 @@
-## JADE TEST
+## Laravel Jade Test
 
 компиляция jade файлов.
 
