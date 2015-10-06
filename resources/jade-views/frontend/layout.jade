@@ -1,0 +1,9 @@
+include ../mixins/blade-mixin
+
+doctype html
+html(lang="en")
+    +include('frontend.partials.head', {'title': "'Amazing title'"})
+    body
+        .container
+            h1 Jade Test
+            +yield('content')
